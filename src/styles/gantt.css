@@ -1,0 +1,18 @@
+.gantt-container {
+  font-family: -apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif;
+}
+
+.gantt-task-row {
+  border-bottom: 1px solid var(--p-color-border-subdued);
+}
+
+.gantt-task-info {
+  background-color: var(--p-color-bg-surface);
+  border-radius: 4px;
+  padding: 8px;
+  box-shadow: var(--p-shadow-card);
+}
+
+.gantt-task-bar {
+  border-radius: 4px;
+}
